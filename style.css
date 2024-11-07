@@ -1,0 +1,72 @@
+#button {
+  text-align: center;
+}
+/* #hover {
+  color: cyan;
+  : ;
+} */
+/* .input-city-name {
+  text-align: center;
+  padding: 10px;
+  margin-top: 220px;
+  margin-left: 500px;
+} */
+#box2 {
+  text-align: center;
+  margin-top: 225px;
+  margin-bottom: 225px;
+  margin-right: 225px;
+  margin-left: 225px;
+}
+body {
+  background: linear-gradient(to top, skyblue, white);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-left: 0px;
+  margin: 0;
+}
+.input-city-name {
+  margin-top: 2px;
+  width: 220px;
+  height: 20px;
+  text-decoration: solid;
+  color: black;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+  background-color: yellowgreen;
+  text-align: center;
+}
+.input-city-name:hover {
+  background-color: aqua;
+}
+.input-city-name:visited {
+  background-color: blue;
+}
+
+#h1 {
+  text-align: center;
+  color: black;
+  text-decoration: underline double;
+}
+#button {
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-top: 10px;
+}
+button:hover {
+  background-color: lavenderblush;
+}
+#box1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 300px;
+  text-align: center;
+  background: fixed;
+}
