@@ -1,3 +1,4 @@
+alert("Hello Visitor");
 function getInputValue() {
   const inputValue = document.querySelector(".input-city-name").value;
   console.log(inputValue);
